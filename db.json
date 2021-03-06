@@ -1,0 +1,66 @@
+{
+	"competitors": [
+		{
+			"side": "home",
+			"name": "Ateam F.C"
+		},
+		{
+			"side": "away",
+			"name": "A.C Bteam"
+		}
+	],
+	"actions": [
+		{
+			"side": "home",
+			"timeStamp": 10
+		},
+		{
+			"side": "home",
+			"timeStamp": 15
+		},
+		{
+			"side": "home",
+			"timeStamp": 22
+		},
+		{
+			"side": "away",
+			"timeStamp": 25
+		},
+		{
+			"side": "away",
+			"timeStamp": 35
+		},
+		{
+			"side": "home",
+			"timeStamp": 45
+		},
+		{
+			"side": "away",
+			"timeStamp": 48
+		},
+		{
+			"side": "away",
+			"timeStamp": 55
+		},
+		{
+			"side": "home",
+			"timeStamp": 68
+		},
+		{
+			"side": "away",
+			"timeStamp": 70
+		},
+		{
+			"side": "home",
+			"timeStamp": 78
+		},
+		{
+			"side": "away",
+			"timeStamp": 80
+		},
+		{
+			"side": "home",
+			"timeStamp": 85
+		}
+	]
+}
